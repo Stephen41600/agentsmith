@@ -1,0 +1,5 @@
+[project]
+name = "agentsmith"
+version = "0.1.0"
+description = "Universal, model-agnostic operating harness for AI agents (Claude, Codex, Gemini, …) — a lean core + work-type profiles assembled by one setup script."
+requires-python = ">=3.10"
