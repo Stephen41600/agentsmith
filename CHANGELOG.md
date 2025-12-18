@@ -28,3 +28,4 @@
 - docs: fix a small wording issue
 - fix: add a note about the defaults
 - fix: fix a small wording issue
+- fix: fix a small wording issue
